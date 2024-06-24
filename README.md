@@ -1,8 +1,8 @@
 # Hackintosh-GIGABYTE-B650M-AORUS-ELITE-AX-ICE-R7-7700
 
 # 当前版本: 
-OpenCore 1.0.0
-macOS Sonoma 14.5
+- OpenCore 1.0.0
+- macOS Sonoma 14.5
 
 | 硬件 | 型号 |
 | ---- |-----|
