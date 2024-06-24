@@ -1,1 +1,17 @@
 # Hackintosh-B650M-AORUS-ELITE-AX-ICE-R7-7700
+
+
+| 硬件 | 型号 |
+| ---- |-----|
+| 主板 | B650M AORUS ELITE AX ICE |
+| CPU | AMD Ryzen™ 7 7700 |
+| 显卡 | RX580 |
+|WiFi+蓝牙| Realtek® Wi-Fi 6E RTL8852CE|
+|内存 | 金士顿16*2　6000 |
+
+
+- 注：机型选择 "MacPro7,1"
+- USB已定制 
+- 休眠唤醒正常　需按两次按键
+- 开启主题
+- 蓝牙与WiFi不能工作
