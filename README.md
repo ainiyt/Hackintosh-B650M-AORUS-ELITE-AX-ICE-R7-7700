@@ -18,3 +18,6 @@
 - 休眠唤醒正常　需按两次按键
 - 开启主题
 - 蓝牙与WiFi不能工作
+
+
+<img width="1375" alt="截屏2024-06-26 18 45 09" src="https://github.com/ainiyt/Hackintosh-B650M-AORUS-ELITE-AX-ICE-R7-7700/assets/30627129/4070b8b8-0ab0-4821-a760-18aa48df550d">
