@@ -1,8 +1,8 @@
 # Hackintosh-GIGABYTE-B650M-AORUS-ELITE-AX-ICE-R7-7700
 
 # 当前版本: 
-- OpenCore 1.0.0
-- macOS Sonoma 14.5
+- OpenCore 1.0.3
+- macOS Sequoia
 
 | 硬件 | 型号 |
 | ---- |-----|
@@ -13,7 +13,7 @@
 |内存 | 金士顿16*2　6000 |
 
 
-- 注：机型选择 "MacPro7,1"
+- 注：机型选择 "iMacPro1,1"
 - USB已定制 
 - 休眠唤醒正常　需按两次按键
 - 开启主题
